@@ -270,7 +270,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="3527354815023530656" datatype="html">
-        <source>Document <x id="PH" equiv-text="status.filename"/> was added to Paperless-ngx.</source>
+        <source>Document <x id="PH" equiv-text="status.filename"/> was added to Averox.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">81</context>
@@ -279,7 +279,7 @@
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">90</context>
         </context-group>
-        <target state="needs-translation">Document <x id="PH" equiv-text="status.filename"/> was added to Paperless-ngx.</target>
+        <target state="needs-translation">Document <x id="PH" equiv-text="status.filename"/> was added to Averox.</target>
       </trans-unit>
       <trans-unit id="1931214133925051574" datatype="html">
         <source>Open document</source>
@@ -302,12 +302,12 @@
         <target state="translated">Kon nie <x id="PH" equiv-text="status.filename"/> toevoeg nie: <x id="PH_1" equiv-text="status.message"/></target>
       </trans-unit>
       <trans-unit id="1218124467712564468" datatype="html">
-        <source>Document <x id="PH" equiv-text="status.filename"/> is being processed by Paperless-ngx.</source>
+        <source>Document <x id="PH" equiv-text="status.filename"/> is being processed by Averox.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">120</context>
         </context-group>
-        <target state="needs-translation">Document <x id="PH" equiv-text="status.filename"/> is being processed by Paperless-ngx.</target>
+        <target state="needs-translation">Document <x id="PH" equiv-text="status.filename"/> is being processed by Averox.</target>
       </trans-unit>
       <trans-unit id="2501522447884928778" datatype="html">
         <source>Prev</source>
@@ -346,12 +346,12 @@
         <target state="translated">Die paneelbord kan gebruik word om bewaarde aansigte, soos ’n ‘inmandjie’, te bekyk. Daardie instellings word, sodra u een geskep het, gevind onder Instellings &gt; Bewaarde aansigte.</target>
       </trans-unit>
       <trans-unit id="9075755296812854717" datatype="html">
-        <source>Drag-and-drop documents here to start uploading or place them in the consume folder. You can also drag-and-drop documents anywhere on all other pages of the web app. Once you do, Paperless-ngx will start training its machine learning algorithms.</source>
+        <source>Drag-and-drop documents here to start uploading or place them in the consume folder. You can also drag-and-drop documents anywhere on all other pages of the web app. Once you do, Averox will start training its machine learning algorithms.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">141</context>
         </context-group>
-        <target state="translated">Sleep-en-los dokumente hier om te begin oplaai, of plaas dit in die verbruik-vouer. U kan ook dokumente enige plek sleep-en-los op alle ander blaaie van die webtoep. Sodra u dit doen, sal Paperless-ngx sy masjienleeralgoritmes begin oplei.</target>
+        <target state="translated">Sleep-en-los dokumente hier om te begin oplaai, of plaas dit in die verbruik-vouer. U kan ook dokumente enige plek sleep-en-los op alle ander blaaie van die webtoep. Sodra u dit doen, sal Averox sy masjienleeralgoritmes begin oplei.</target>
       </trans-unit>
       <trans-unit id="7495498057594070122" datatype="html">
         <source>The documents list shows all of your documents and allows for filtering as well as bulk-editing. There are three different view styles: list, small cards and large cards. A list of documents currently opened for editing is shown in the sidebar.</source>
@@ -442,12 +442,12 @@
         <target state="translated">Daar is nog &lt;em&gt;baie&lt;/em&gt; meer funksies en inligting wat ons nie hier behandel het nie, maar u sal hiermee kan begin. Bekyk die dokumentasie of besoek die projek op GitHub vir meer inligting of om probleme te rapporteer.</target>
       </trans-unit>
       <trans-unit id="4270528545616947218" datatype="html">
-        <source>Lastly, on behalf of every contributor to this community-supported project, thank you for using Paperless-ngx!</source>
+        <source>Lastly, on behalf of every contributor to this community-supported project, thank you for using Averox!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">208</context>
         </context-group>
-        <target state="translated">Ten slotte, namens elke bydraer aan hierdie gemeenskapsondersteunde projek, dankie dat u Paperless-ngx gebruik!</target>
+        <target state="translated">Ten slotte, namens elke bydraer aan hierdie gemeenskapsondersteunde projek, dankie dat u Averox gebruik!</target>
       </trans-unit>
       <trans-unit id="9063918187161876141" datatype="html">
         <source>Application Configuration</source>
@@ -458,12 +458,12 @@
         <target state="needs-translation">Application Configuration</target>
       </trans-unit>
       <trans-unit id="8528041182664173532" datatype="html">
-        <source>Global app configuration options which apply to &lt;strong&gt;every&lt;/strong&gt; user of this install of Paperless-ngx. Options can also be set using environment variables or the configuration file but the value here will always take precedence.</source>
+        <source>Global app configuration options which apply to &lt;strong&gt;every&lt;/strong&gt; user of this install of Averox. Options can also be set using environment variables or the configuration file but the value here will always take precedence.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/admin/config/config.component.html</context>
           <context context-type="linenumber">4</context>
         </context-group>
-        <target state="needs-translation">Global app configuration options which apply to &lt;strong&gt;every&lt;/strong&gt; user of this install of Paperless-ngx. Options can also be set using environment variables or the configuration file but the value here will always take precedence.</target>
+        <target state="needs-translation">Global app configuration options which apply to &lt;strong&gt;every&lt;/strong&gt; user of this install of Averox. Options can also be set using environment variables or the configuration file but the value here will always take precedence.</target>
       </trans-unit>
       <trans-unit id="187187500641108332" datatype="html">
         <source>
@@ -2352,12 +2352,12 @@
         <target state="translated">Fout by skrap van groep.</target>
       </trans-unit>
       <trans-unit id="7931334600001636863" datatype="html">
-        <source>by Paperless-ngx</source>
+        <source>by Averox</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/app-frame/app-frame.component.html</context>
           <context context-type="linenumber">20</context>
         </context-group>
-        <target state="needs-translation">by Paperless-ngx</target>
+        <target state="needs-translation">by Averox</target>
       </trans-unit>
       <trans-unit id="7100953725264790651" datatype="html">
         <source>Search documents</source>
@@ -2656,12 +2656,12 @@
         <target state="translated">Klik om te bekyk.</target>
       </trans-unit>
       <trans-unit id="9811291095862612" datatype="html">
-        <source>Paperless-ngx can automatically check for updates</source>
+        <source>Averox can automatically check for updates</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/app-frame/app-frame.component.html</context>
           <context context-type="linenumber">299</context>
         </context-group>
-        <target state="translated">Paperless-ngx kan outomaties na bywerkings soek</target>
+        <target state="translated">Averox kan outomaties na bywerkings soek</target>
       </trans-unit>
       <trans-unit id="894819944961861800" datatype="html">
         <source> How does this work? </source>
@@ -3632,12 +3632,12 @@
         <target state="translated">of gebruik solidi om gidse toe te voeg, bv.</target>
       </trans-unit>
       <trans-unit id="7871464228487558644" datatype="html">
-        <source>See &lt;a target=&quot;_blank&quot; href=&quot;https://docs.paperless-ngx.com/advanced_usage/#file-name-handling&quot;&gt;documentation&lt;/a&gt; for full list.</source>
+        <source>See &lt;a target=&quot;_blank&quot; href=&quot;https://docs.ocr.averox.com/advanced_usage/#file-name-handling&quot;&gt;documentation&lt;/a&gt; for full list.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/edit-dialog/storage-path-edit-dialog/storage-path-edit-dialog.component.ts</context>
           <context context-type="linenumber">32</context>
         </context-group>
-        <target state="translated">Sien die &lt;a target="_blank" href="https://docs.paperless-ngx.com/advanced_usage/#file-name-handling"&gt;dokumentasie&lt;/a&gt; vir ’n volledige lys.</target>
+        <target state="translated">Sien die &lt;a target="_blank" href="https://docs.ocr.averox.com/advanced_usage/#file-name-handling"&gt;dokumentasie&lt;/a&gt; vir ’n volledige lys.</target>
       </trans-unit>
       <trans-unit id="6898961890896270754" datatype="html">
         <source>Create new storage path</source>
@@ -3972,12 +3972,12 @@
         <target state="needs-translation">Assign title</target>
       </trans-unit>
       <trans-unit id="1098196422099517191" datatype="html">
-        <source>Can include some placeholders, see &lt;a target=&apos;_blank&apos; href=&apos;https://docs.paperless-ngx.com/usage/#workflows&apos;&gt;documentation&lt;/a&gt;.</source>
+        <source>Can include some placeholders, see &lt;a target=&apos;_blank&apos; href=&apos;https://docs.ocr.averox.com/usage/#workflows&apos;&gt;documentation&lt;/a&gt;.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.html</context>
           <context context-type="linenumber">160</context>
         </context-group>
-        <target state="needs-translation">Can include some placeholders, see &lt;a target='_blank' href='https://docs.paperless-ngx.com/usage/#workflows'&gt;documentation&lt;/a&gt;.</target>
+        <target state="needs-translation">Can include some placeholders, see &lt;a target='_blank' href='https://docs.ocr.averox.com/usage/#workflows'&gt;documentation&lt;/a&gt;.</target>
       </trans-unit>
       <trans-unit id="6528897010417701530" datatype="html">
         <source>Assign tags</source>
@@ -4974,12 +4974,12 @@
         <target state="needs-translation">Environment</target>
       </trans-unit>
       <trans-unit id="5973078531069712831" datatype="html">
-        <source>Paperless-ngx Version</source>
+        <source>Averox Version</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/system-status-dialog/system-status-dialog.component.html</context>
           <context context-type="linenumber">22</context>
         </context-group>
-        <target state="needs-translation">Paperless-ngx Version</target>
+        <target state="needs-translation">Averox Version</target>
       </trans-unit>
       <trans-unit id="6269705781013540301" datatype="html">
         <source>Install Type</source>
@@ -5413,12 +5413,12 @@
         <target state="translated">, </target>
       </trans-unit>
       <trans-unit id="7915903586014997661" datatype="html">
-        <source>Paperless-ngx is running!</source>
+        <source>Averox is running!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/dashboard/widgets/welcome-widget/welcome-widget.component.html</context>
           <context context-type="linenumber">2</context>
         </context-group>
-        <target state="translated">Paperless-ngx loop tans!</target>
+        <target state="translated">Averox loop tans!</target>
       </trans-unit>
       <trans-unit id="3326049540711826572" datatype="html">
         <source>You&apos;re ready to start uploading documents! Explore the various features of this web app on your own, or start a quick tour using the button below.</source>
@@ -5429,20 +5429,20 @@
         <target state="translated">U is gereed om dokumente op te laai! Ontdek self die verskillende funksies van hierdie webtoep of begin ’n vinnige toer met die knop hieronder.</target>
       </trans-unit>
       <trans-unit id="4474647174688421179" datatype="html">
-        <source>More detail on how to use and configure Paperless-ngx is always available in the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.paperless-ngx.com&quot; target=&quot;_blank&quot;&gt;"/>documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</source>
+        <source>More detail on how to use and configure Averox is always available in the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.ocr.averox.com&quot; target=&quot;_blank&quot;&gt;"/>documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/dashboard/widgets/welcome-widget/welcome-widget.component.html</context>
           <context context-type="linenumber">4</context>
         </context-group>
-        <target state="translated">Meer detail oor hoe om Paperless-ngx te gebruik en op te stel, is altyd in die <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.paperless-ngx.com&quot; target=&quot;_blank&quot;&gt;"/>dokumentasie<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> beskikbaar.</target>
+        <target state="translated">Meer detail oor hoe om Averox te gebruik en op te stel, is altyd in die <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.ocr.averox.com&quot; target=&quot;_blank&quot;&gt;"/>dokumentasie<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> beskikbaar.</target>
       </trans-unit>
       <trans-unit id="4294899532887357745" datatype="html">
-        <source>Thanks for being a part of the Paperless-ngx community!</source>
+        <source>Thanks for being a part of the Averox community!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/dashboard/widgets/welcome-widget/welcome-widget.component.html</context>
           <context context-type="linenumber">7</context>
         </context-group>
-        <target state="translated">Dankie dat u deel is van die Paperless-ngx-gemeenskap!</target>
+        <target state="translated">Dankie dat u deel is van die Averox-gemeenskap!</target>
       </trans-unit>
       <trans-unit id="1415832194529539652" datatype="html">
         <source>Start the tour</source>
@@ -7455,12 +7455,12 @@
         <target state="translated">Wil u regtig die etiket “<x id="PH" equiv-text="object.name"/>” skrap?</target>
       </trans-unit>
       <trans-unit id="1229748338333965418" datatype="html">
-        <source>Use workflows to customize the behavior of Paperless-ngx when events &apos;trigger&apos; a workflow.</source>
+        <source>Use workflows to customize the behavior of Averox when events &apos;trigger&apos; a workflow.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/workflows/workflows.component.html</context>
           <context context-type="linenumber">4</context>
         </context-group>
-        <target state="needs-translation">Use workflows to customize the behavior of Paperless-ngx when events 'trigger' a workflow.</target>
+        <target state="needs-translation">Use workflows to customize the behavior of Averox when events 'trigger' a workflow.</target>
       </trans-unit>
       <trans-unit id="2437630016855517844" datatype="html">
         <source>Add Workflow</source>

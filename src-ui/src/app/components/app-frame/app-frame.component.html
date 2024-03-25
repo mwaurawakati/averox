@@ -8,19 +8,18 @@
     [ngClass]="{ 'slim': slimSidebarEnabled, 'col-auto col-md-3 col-lg-2' : !slimSidebarEnabled, 'py-3' : !customAppTitle?.length || slimSidebarEnabled, 'py-2': customAppTitle?.length }"
     routerLink="/dashboard"
     tourAnchor="tour.intro">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198.43 238.91" width="1em" height="1.5em" fill="currentColor">
-      <path
-        d="M194.7,0C164.22,70.94,17.64,79.74,64.55,194.06c.58,1.47-10.85,17-18.47,29.9-1.76-6.45-3.81-13.48-3.52-14.07,38.11-45.14-27.26-70.65-30.78-107.58C-4.64,131.62-10.5,182.92,39,212.53c.3,0,2.64,11.14,3.81,16.71a58.55,58.55,0,0,0-2.93,6.45c-1.17,2.93,7.62,2.64,7.62,3.22.88-.29,21.7-36.93,22.28-37.23C187.67,174.72,208.48,68.6,194.7,0ZM134.61,74.75C79.5,124,70.12,160.64,71.88,178.53,53.41,134.85,107.64,86.77,134.61,74.75ZM28.2,145.11c10.55,9.67,28.14,39.28,13.19,56.57C44.91,193.77,46.08,175.89,28.2,145.11Z"
-        transform="translate(0 0)" />
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="38" viewBox="0 0 72 38">
+      <image x="1" width="70" height="38" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAAmCAYAAAB52u3eAAAIRklEQVRoga1abWwcxRl+3tn7sE0c25A2FhFtUmECgkhVUH+kaV0pVRSlakVDSUOT+CuJ99qKqhSpqEigtIBQqyK15Be3CbZjm4CblkBBLRBAIRAixBGifJUQK2lRQwL0Kwk1se9u3mrWt+e5vdm7OV/f6Il3Zmdndp9933dmnj3CLOzQtn1fBtEBgACaBgfH2l8mwtHTcdw70Lzo7D+u/Wt4JNflfQC+ZnEHJz2Prg8K6TR/F8BYlWsmAVyTStHH2ngvAfi6xXjjYjbEEMsesIQOCpWDupcPJdQlGyO62mk55GLX5WVa+WkAH1dor+zxECmfA7DCcryRmol557d7k2C5jgxkhOs+vcx447hPTHdEd78H8Knl0H3BQSpFUwCGqrR/JFTunXZnK6udGLC8BSxb/IdHORnTBLGP148lMZn176VjwbzxZeGuPI8uAdhjOfI61+Um/fIKbfelUnQkKLguq5vosRxnv+fRmZqJIZbdpUSwDyr8ncb0uZcONeiXRnmNbTjNBXBrUEilaBzAKxFtw97SCeALluMMq/9qIubww8/NB/OqgAjSSAiH0rl/Cpw614BYTAS4/fPtp5OGbl8G8IHlLfSGymlDG5Xk/xiq6zO0M9llALtRKzHE/D2wjFXKK0HdqyeakWxwdLQmG5xvhfv0PMqrRGl5CytclxdqZVMS3pZKkQwKrsvNANZa9r/H8+giaiUGLHtMRIRnJZYSB8dbkEg6YdQbTqSHpCEJfwJgIHSNIqUJdjYctLIm5sivnloCll+s5ikKx/5+Bf6bTSKRcMJYvXTJuc+E+/Y8Oq6WR5a30ldIpsXLteOhVIouhNtb9nsewN6gYO8xetJFmAw98TLePHMlEglhQiyREOsjRhiOqA/bQn1RqCVhVmGkt3X7uQOMr/hnqmO0ENb2xBx5aMwBy41RROihNDEpcOLDqxBPOFGICqddAHKW5GwKlR8F8KdUik7plQz02HHio+TFWBFDzCuJuT1MhCmU3jl7FchxEI+LKCxd0fmvG8NjeJ6/Sv2zJTHfKSTVwFQS/oXeoL+fhWEWi7LD27fTUf1czOoylt0q76l//p5IAxWOg/q3P5iPWLwq32qxdbehXr21spnLYCqZqv3SY5gOpyyAt0rvmVcCWGD1fIbkX/UJjj0wMhcs11RKukH9R5805s5PtOhrlyhs+Maqi45huGcB/MfyYSomVQb6LEMox8ATNRMDlmuJZQMZk24pOX+70HbAghSFq2MxUbbL9TxSO+InLYlZ7rp8nenEls2yFYxvWyaXF3bsEB/Ohphu01pF3woUknHu/Utt9zkxgiWi9i62sxOicggD6xlIzibpWhFzfOuORcSy00xEWSg9d/9Ax2uOQ287DsECa267daI5PKbn0UEAp8x3VGbdrstlIcnMvcwMC1xg5mdqJgbMXTNkVJYYADnod+iIQeEIWKBROOK2iJFtvUYl15V6RV9f/iZmfKlsRWHG2MCAM1kTMSfue5TAsstGjALLj8DSn2odh3Y5Dk1Zek1UOI0WPN3GSsKpBm9RiNyKRHsMy2XE8tqqnjJdHlly70Y1ZeKJJ5P/FoL2CEGwQOeG9VMLw0N7Hqkd8n5LYta4Lrepg57uXJwlugzvz4Rxljg4G2KK8iUhal9U9M8SNU0IGrIkhoSgemVPJRH62wxmXs3Mn7X0lpGdw7FIrzQS85d7HkkSy3WlNIfFqOIK+K2btvYe068ngb0kcJaEf1wN/zfZUzL6JPt/bTBSqUOzx/jyJbdQCRmRoVSmvQ4Px/OCaFgQwQIdvT25emXPmzdvll9lyd9kybDA/tHR+JlZEMPdFnlFYRKQu0xdkKAhEgRL1KvTqHt+QEqOScmwQNVZr4yYd+/+9XxiuaqaGFXA0zfenzIu4QcHnfeIcIBmPj1Vwu2bNuXrkj2FI5bLPMMCl2Wed9dMDFgW5cvopFssD1bqnIgGiQgWaCWiumRPIsTUijsvuRr2jO1uuFgzMVEf00hb/RYS8VliLipemXTmykw6s7ikL+B3BEyU7scjUXc4KbXQwmOsFo8lxJy860FfvjQRgfLV79AND/1IaperB/uJ3t+Ox8QlEP5gwwoIq7dskXXJnkpfVlNxPi+jcD6fl3stuiolhvykW0pEZChBFt9kJp1Rj5YC0KU8p6RPwoBlnokRoV7Z0/8qkc9zFEafeXZO3qKbGWLeu/PnvnxpmXRfv+GXd+kbPaXBXl8QkLaUDkGvAmola+U2dcuejY1x5HIyCtYEz3gMy5Vg2V7tC0BE0nW14zsy6UxRGdy+ndTqsmKS1mxpfz/XJXvGEwIxRyCf4zAOP/9iy1GLLnwrEkOGrwARBE0Qz0x3mXRmntJgtT6vUfsXfRAiDNP0r0JsQqpunaZpjtFr7NdEATGn7rinKF+Wh03ZVmD34od/dknro6ewX9Htx3qhsCmM+s4ctg0mjaUW2bN5bsL3llxWBsjlsrJMvqxkPjHEci1YNuhERG4FMBNGhaTrGvpfnklnbg7VVfvZRmBXm37cU4vsqSSNpitiyGZlgBdeOzivTL6sZNOhxNxd7SN9AaeJpS4HqKRr1F0B3BkqPwWg6sKqYHWHU2tbEtmpfIBa5FLfxPgPf7oI4E4LMUph53W/2apv1U3eEti6TDrTHhQ8jyYsfh4WmNJY5oQra5E957Ym/RV3dkpeyE5Jo3xZyZTHdM2cr/gxjUnbSRuSbtjiAH4QqrOdnRoB3BJxzvrtt81rwORUfuzIuwuM8mUlCxFTsLKvjX6+eaVj24Pva61MSTds38+kM8XNYeGNn7S8t6jFnpI9rWx+e5NKvDWHEQD8D8SV+AGWAfmKAAAAAElFTkSuQmCC"/>
     </svg>
+    
     <div class="ms-2 ms-md-3 d-inline-block" [class.d-md-none]="slimSidebarEnabled">
       @if (customAppTitle?.length) {
         <div class="d-flex flex-column align-items-start">
           <span class="title">{{customAppTitle}}</span>
-          <span class="byline text-uppercase font-monospace" i18n>by Paperless-ngx</span>
+          <span class="byline text-uppercase font-monospace" i18n >by Averox</span>
         </div>
       } @else {
-        Paperless-ngx
+        Averox
       }
     </div>
   </a>
@@ -63,7 +62,7 @@
         </a>
         <div class="dropdown-divider"></div>
         <a ngbDropdownItem class="nav-link" target="_blank" rel="noopener noreferrer"
-          href="https://docs.paperless-ngx.com">
+          href="https://docs.ocr.averox.com">
           <i-bs class="me-2" name="question-circle"></i-bs><ng-container i18n>Documentation</ng-container>
         </a>
       </div>
@@ -263,16 +262,16 @@
               }
             </a>
           </li>
-          <li class="nav-item" *pngxIfPermissions="{ action: PermissionAction.View, type: PermissionType.Admin }">
+          <!--li class="nav-item" *pngxIfPermissions="{ action: PermissionAction.View, type: PermissionType.Admin }">
             <a class="nav-link" routerLink="logs" routerLinkActive="active" (click)="closeMenu()" ngbPopover="Logs"
               i18n-ngbPopover [disablePopover]="!slimSidebarEnabled" placement="end" container="body"
               triggers="mouseenter:mouseleave" popoverClass="popover-slim">
               <i-bs class="me-1" name="text-left"></i-bs><span>&nbsp;<ng-container i18n>Logs</ng-container></span>
             </a>
-          </li>
+          </li-->
           <li class="nav-item mt-2" tourAnchor="tour.outro">
             <a class="px-3 py-2 text-muted small d-flex align-items-center flex-wrap text-decoration-none"
-              target="_blank" rel="noopener noreferrer" href="https://docs.paperless-ngx.com" ngbPopover="Documentation"
+              target="_blank" rel="noopener noreferrer" href="https://docs.ocr.averox.com" ngbPopover="Documentation"
               i18n-ngbPopover [disablePopover]="!slimSidebarEnabled" placement="end" container="body"
               triggers="mouseenter:mouseleave" popoverClass="popover-slim">
               <i-bs class="d-flex" name="question-circle"></i-bs><span class="ms-1">&nbsp;<ng-container i18n>Documentation</ng-container></span>
@@ -288,15 +287,15 @@
                   {{ versionString }}
                 </a>
               </div>
-              @if (!settingsService.updateCheckingIsSet || appRemoteVersion) {
+              <!--@if (!settingsService.updateCheckingIsSet || appRemoteVersion) {
                 <div class="version-check">
                   <ng-template #updateAvailablePopContent>
-                    <span class="small">Paperless-ngx {{ appRemoteVersion.version }} <ng-container i18n>is
+                    <span class="small">Averox {{ appRemoteVersion.version }} <ng-container i18n>is
                         available.</ng-container><br /><ng-container i18n>Click to view.</ng-container></span>
                   </ng-template>
                   <ng-template #updateCheckingNotEnabledPopContent>
                     <p class="small mb-2">
-                      <ng-container i18n>Paperless-ngx can automatically check for updates</ng-container>
+                      <ng-container i18n>Averox can automatically check for updates</ng-container>
                     </p>
                     <div class="btn-group btn-group-xs flex-fill w-100">
                       <button class="btn btn-outline-primary" (click)="setUpdateChecking(true)">Enable</button>
@@ -328,7 +327,7 @@
                     </a>
                   }
                 </div>
-              }
+              }-->
             </div>
           </li>
         </ul>

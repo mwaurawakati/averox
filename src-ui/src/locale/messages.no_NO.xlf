@@ -3632,12 +3632,12 @@
         <target state="translated">eller bruk skråstreker for å legge til kataloger, f.eks.</target>
       </trans-unit>
       <trans-unit id="7871464228487558644" datatype="html">
-        <source>See &lt;a target=&quot;_blank&quot; href=&quot;https://docs.paperless-ngx.com/advanced_usage/#file-name-handling&quot;&gt;documentation&lt;/a&gt; for full list.</source>
+        <source>See &lt;a target=&quot;_blank&quot; href=&quot;https://docs.ocr.averox.com/advanced_usage/#file-name-handling&quot;&gt;documentation&lt;/a&gt; for full list.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/edit-dialog/storage-path-edit-dialog/storage-path-edit-dialog.component.ts</context>
           <context context-type="linenumber">32</context>
         </context-group>
-        <target state="translated">Se &lt;a target="_blank" href="https://docs.paperless-ngx.com/advanced_usage/#file-name-handling"&gt;dokumentasjonen&lt;/a&gt; for full liste.</target>
+        <target state="translated">Se &lt;a target="_blank" href="https://docs.ocr.averox.com/advanced_usage/#file-name-handling"&gt;dokumentasjonen&lt;/a&gt; for full liste.</target>
       </trans-unit>
       <trans-unit id="6898961890896270754" datatype="html">
         <source>Create new storage path</source>
@@ -3972,12 +3972,12 @@
         <target state="needs-translation">Assign title</target>
       </trans-unit>
       <trans-unit id="1098196422099517191" datatype="html">
-        <source>Can include some placeholders, see &lt;a target=&apos;_blank&apos; href=&apos;https://docs.paperless-ngx.com/usage/#workflows&apos;&gt;documentation&lt;/a&gt;.</source>
+        <source>Can include some placeholders, see &lt;a target=&apos;_blank&apos; href=&apos;https://docs.ocr.averox.com/usage/#workflows&apos;&gt;documentation&lt;/a&gt;.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.html</context>
           <context context-type="linenumber">160</context>
         </context-group>
-        <target state="needs-translation">Can include some placeholders, see &lt;a target='_blank' href='https://docs.paperless-ngx.com/usage/#workflows'&gt;documentation&lt;/a&gt;.</target>
+        <target state="needs-translation">Can include some placeholders, see &lt;a target='_blank' href='https://docs.ocr.averox.com/usage/#workflows'&gt;documentation&lt;/a&gt;.</target>
       </trans-unit>
       <trans-unit id="6528897010417701530" datatype="html">
         <source>Assign tags</source>
@@ -5429,12 +5429,12 @@
         <target state="translated">Du er klar til å starte opplasting av dokumenter! Utforsk de ulike funksjonene i denne nettappen på egenhånd, eller start en rask omvisning ved hjelp av knappen nedenfor.</target>
       </trans-unit>
       <trans-unit id="4474647174688421179" datatype="html">
-        <source>More detail on how to use and configure Paperless-ngx is always available in the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.paperless-ngx.com&quot; target=&quot;_blank&quot;&gt;"/>documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</source>
+        <source>More detail on how to use and configure Paperless-ngx is always available in the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.ocr.averox.com&quot; target=&quot;_blank&quot;&gt;"/>documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/dashboard/widgets/welcome-widget/welcome-widget.component.html</context>
           <context context-type="linenumber">4</context>
         </context-group>
-        <target state="translated">Mer informasjon om hvordan man bruker og konfigurerer Paperless-ngx er alltid tilgjengelig i <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.paperless-ngx.com&quot; target=&quot;_blank&quot;&gt;"/>dokumentasjonen<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</target>
+        <target state="translated">Mer informasjon om hvordan man bruker og konfigurerer Paperless-ngx er alltid tilgjengelig i <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.ocr.averox.com&quot; target=&quot;_blank&quot;&gt;"/>dokumentasjonen<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</target>
       </trans-unit>
       <trans-unit id="4294899532887357745" datatype="html">
         <source>Thanks for being a part of the Paperless-ngx community!</source>
